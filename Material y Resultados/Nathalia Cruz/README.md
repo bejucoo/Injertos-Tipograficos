@@ -1,4 +1,4 @@
-# Nathalia Cruz
+# Nathalia Cruz [Nathalia Sie]
 
 Estilos, modelos y muestra de dataset de texto de [Nathalia Cruz](https://www.instagram.com/nathalia.sie/).
 
