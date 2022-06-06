@@ -14,8 +14,6 @@ En este repositorio se encuentra:
 
 Se utilizó una [licencia MIT](https://choosealicense.com/licenses/mit/) para imponer muy pocas limitaciones en la reutilización del material y así contribuir a la cultura de la colaboración.
 
----
-
 ## Más información sobre el laboratorio:
 - [Galería con las imágenes de los injertos]().
 - [Bitácora de actividades en Observable](https://observablehq.com/@pierreee1/bitacora_injertos).
