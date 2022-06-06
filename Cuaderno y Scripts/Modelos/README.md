@@ -1,0 +1,1 @@
+En esta carpeta se guardarán los modelos resultantes del entrenamiento de SMGAN: *GB*, *GS* y *GT*.
