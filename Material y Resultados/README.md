@@ -1,6 +1,6 @@
 # Material y resultados
 
-En esta carpeta se encuentran algunos de los resultados de los participantes del laboratorio [Injertos Tipográficos](https://plataformabogota.gov.co/convocatoria/morfologia-de-las-plantas-y-los-signos) realizado durante mayo de 2022 en Bogotá (COL).
+En esta carpeta se encuentran algunos de los resultados de los participantes del laboratorio [Injertos Tipográficos](https://plataformabogota.gov.co/convocatoria/morfologia-de-las-plantas-y-los-signos).
 
 En cada carpeta están organizados:
 
