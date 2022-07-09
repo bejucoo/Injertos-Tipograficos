@@ -9,13 +9,13 @@ El resultado principal fue la creación de varios Injertos Tipográficos (la uni
 
 En este repositorio se encuentra:
 
-- El cuaderno de Google Colab con el que se realizaron los injertos.
+- El cuaderno de [Google Colab](https://research.google.com/colaboratory/intl/es/faq.html) con el que se realizaron los injertos.
 - Los modelos y datasets utilizados por los participantes del taller.
 
 Se utilizó una [licencia MIT](https://choosealicense.com/licenses/mit/) para imponer muy pocas limitaciones en la reutilización del material y así contribuir a la cultura de la colaboración.
 
 ## Más información sobre el laboratorio:
-- [Página web y galería](https://bejucoo.github.io/injertos/).
+- [Página web del Laboratorio](https://bejucoo.github.io/injertos/).
 - [Instagram de Plataforma Bogotá](https://www.instagram.com/plataforma_bogota/).
 ---
 [bejuco](https://bejuco.co/) @ 2022
